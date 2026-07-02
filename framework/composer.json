@@ -1,0 +1,19 @@
+{
+    "name": "mvcphp/framwork",
+    "description": "framwork",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdo"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "version": "1.0.0"
+}

@@ -1,0 +1,36 @@
+{
+    "packages": [
+        {
+            "name": "mvcphp/framwork",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "dist": {
+                "type": "path",
+                "url": "framework",
+                "reference": "ff4bffeb52b01e9e77d6a9647f17da953cbc6c1e"
+            },
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Framework\\": "framework/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "abdo"
+                }
+            ],
+            "description": "framwork",
+            "transport-options": {
+                "relative": true
+            },
+            "install-path": "../mvcphp/framwork"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
