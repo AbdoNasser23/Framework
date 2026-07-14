@@ -7,6 +7,10 @@ namespace Composer\Autoload;
 class ComposerStaticInit2c2c1a5c7a95867a94baa6e2ddf4d96d
 {
     public static $prefixLengthsPsr4 = array (
+        'I' => 
+        array (
+            'Illuminates\\' => 12,
+        ),
         'F' => 
         array (
             'Framework\\' => 10,
@@ -18,6 +22,10 @@ class ComposerStaticInit2c2c1a5c7a95867a94baa6e2ddf4d96d
     );
 
     public static $prefixDirsPsr4 = array (
+        'Illuminates\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mvcphp/framwork/illuminates',
+        ),
         'Framework\\' => 
         array (
             0 => __DIR__ . '/..' . '/mvcphp/framwork/framework',

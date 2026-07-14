@@ -22,7 +22,7 @@
         'mvcphp/framwork' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
-            'reference' => 'ff4bffeb52b01e9e77d6a9647f17da953cbc6c1e',
+            'reference' => 'f6018d756e451fbef675162436869f7a4bf3127d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../mvcphp/framwork',
             'aliases' => array(),

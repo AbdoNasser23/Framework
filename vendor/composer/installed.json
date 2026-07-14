@@ -7,13 +7,14 @@
             "dist": {
                 "type": "path",
                 "url": "framework",
-                "reference": "ff4bffeb52b01e9e77d6a9647f17da953cbc6c1e"
+                "reference": "f6018d756e451fbef675162436869f7a4bf3127d"
             },
             "type": "library",
             "installation-source": "dist",
             "autoload": {
                 "psr-4": {
-                    "Framework\\": "framework/"
+                    "Framework\\": "framework/",
+                    "Illuminates\\": "illuminates/"
                 }
             },
             "license": [

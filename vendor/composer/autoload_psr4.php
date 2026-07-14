@@ -6,6 +6,7 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Illuminates\\' => array($vendorDir . '/mvcphp/framwork/illuminates'),
     'Framework\\' => array($vendorDir . '/mvcphp/framwork/framework'),
     'App\\' => array($baseDir . '/app'),
 );
